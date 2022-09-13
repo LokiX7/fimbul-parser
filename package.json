@@ -1,0 +1,22 @@
+{
+  "name": "fimbul-parser",
+  "version": "1.0.0",
+  "description": "fimbul radio track list parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LokiX7/fimbul-parser.git"
+  },
+  "keywords": [
+    "parser"
+  ],
+  "author": "Alexander Revenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LokiX7/fimbul-parser/issues"
+  },
+  "homepage": "https://github.com/LokiX7/fimbul-parser#readme"
+}
