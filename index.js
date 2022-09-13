@@ -56,17 +56,3 @@ async function parse() {
 
 parse();
 
-
-
-
-
-
-//axios
-//  .get('https://public.radio.co/stations/sdda8682fb/requests/tracks')
-//  .then(res => {
-//    console.log(`statusCode: ${res.status}`);
-//    console.log(res);
-//  })
-//  .catch(error => {
-//    console.error(error);
-//  });
